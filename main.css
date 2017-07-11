@@ -1,0 +1,12 @@
+body {
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+.logo {
+width: 600px;
+max-width: 96%;
+}
